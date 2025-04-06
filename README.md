@@ -1,6 +1,8 @@
 # FiraCodeFont-kali-patch
 Fira code font with fixed kali linux logo. Has also almalinux and rocky linux logo additions.
 
+Might not be necessary anymore
+
 Font from [directly kali linux's site](https://www.kali.org/blog/kali-linux-2021-2-release/#:~:text=kali%E2%80%99s%20logo%20is%20now%20included%20in%20the%20nerd-fonts%20project%2C%20so%2C%20with%20their%20next%20release%20you%E2%80%99ll%20be%20able%20to%20customize%20your%20terminal%20with%20the%20dragon.%20if%20you%20want%20to%20try%20it%20now%2C%20we%E2%80%99ve%20created%20a%20patched%20fira-code%20font%20with%20these%20new%20changes%20(the%20code%20for%20the%20logo%20is%20\uf32b))
 
 ![unfixed](https://user-images.githubusercontent.com/67955086/163987203-4fc1f464-6647-4285-af67-5eab3f5aa1bc.png)
